@@ -4,6 +4,9 @@ Changelog
 1.1.2 (unreleased)
 ------------------
 
+- Readded fix made by eleddy in 1.0.4 wrongfully removed from 1.1.x 
+  [ichimdav]
+
 - Fixed incompatibilities of search.js up to and including jQuery 1.9 while
   maintaining compatibility with jQuery all the way to 1.4.4
   [ichimdav]
